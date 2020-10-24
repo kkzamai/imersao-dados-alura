@@ -1,6 +1,6 @@
 # README - IMERSÃO DADOS ALURA
 
-Este repositório contém o código gerado durante as aulas da semana de imersão de dados da Alura. 
+Este repositório contém o código que gerei durante as aulas da semana de imersão de dados da Alura. 
 - Foram 5 aulas durante a semana de 19 a 23 de outubro de 2020. 
 
 ## Aula 1
