@@ -7,6 +7,8 @@ Este repositório contém o código que gerei durante as aulas da semana de imer
 - Aula introdutória, utilizamos uma amostra dos dados do ENEM. 
 - Usamos o Google Colab
 - http://inep.gov.br/web/guest/microdados
+- Amostra utilizada: https://github.com/alura-cursos/imersao-dados-2-2020/blob/master/MICRODADOS_ENEM_2019_SAMPLE_43278.csv
+- Dicionário de dados: https://github.com/alura-cursos/imersao-dados-2-2020/tree/master/DICION%C3%81RIO
 
 ## Aula 2 
 - Análise exploratória
